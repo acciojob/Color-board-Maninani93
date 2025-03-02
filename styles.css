@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+/* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(40, 30px); /* 40 columns */
+  grid-template-rows: repeat(20, 30px);    /* 20 rows */
+  gap: 5px;
+}
+
+.square {
+  width: 30px;
+  height: 30px;
+  background-color: #1d1d1d;  /* Default color for reset, equivalent to rgb(29, 29, 29) */
+  transition: background-color 1s ease; /* Smooth transition for color change */
+}
+
+.square:hover {
+  background-color: #3498db; /* Hover color, adjust as needed */
+}
+ */
